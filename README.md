@@ -1,4 +1,4 @@
 # firstpush-code
 This is my first Git Repository.
 <br>
-Author - Sanjita Sendang
+Author - Sanjita Sendang (limbu)
